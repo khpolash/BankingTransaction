@@ -1,0 +1,9 @@
+F:\ASP-DotNet\BankingTransaction\BankingTransaction\bin\Debug\BankingTransaction.exe.config
+F:\ASP-DotNet\BankingTransaction\BankingTransaction\bin\Debug\BankingTransaction.exe
+F:\ASP-DotNet\BankingTransaction\BankingTransaction\bin\Debug\BankingTransaction.pdb
+F:\ASP-DotNet\BankingTransaction\BankingTransaction\obj\Debug\BankingTransaction.csprojResolveAssemblyReference.cache
+F:\ASP-DotNet\BankingTransaction\BankingTransaction\obj\Debug\BankingTransaction.Form1.resources
+F:\ASP-DotNet\BankingTransaction\BankingTransaction\obj\Debug\BankingTransaction.Properties.Resources.resources
+F:\ASP-DotNet\BankingTransaction\BankingTransaction\obj\Debug\BankingTransaction.csproj.GenerateResource.Cache
+F:\ASP-DotNet\BankingTransaction\BankingTransaction\obj\Debug\BankingTransaction.exe
+F:\ASP-DotNet\BankingTransaction\BankingTransaction\obj\Debug\BankingTransaction.pdb
